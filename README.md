@@ -21,7 +21,10 @@
 
 To get a local copy up and run:
 
-- git clone git@github.com:ciraganenicole/To-do-list.git   in your terminal
+- First open the terminal and cd into the folder in which you want to put the project
+- Then run git clone git@github.com:ciraganenicole/To-do-list.git
+- After run code To-do-list to open it with VS Code
+- Then click to Go to live to view it in the browser
 
 ### Prerequisites
 
